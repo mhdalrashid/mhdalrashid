@@ -46,39 +46,11 @@
 
 ###  💡 LeetCode Stats
 
-<div align="center">
+<p align="center">
+  <img src="https://leetcode-badge-sage.vercel.app/badge/mhdalrashid?theme=dark&bgColor=282828" alt="LeetCode Stats" width="90%" />
+</p>
 
-<table style="border-radius: 8px; background-color: #1e1e2e; color: white; padding: 16px; width: 95%; max-width: 700px; box-shadow: 0 0 10px #121212;">
-  <tr>
-    <td><strong>Problems Solved</strong></td>
-    <td><img src="https://img.shields.io/badge/180-orange?style=flat-square&logo=leetcode&logoColor=white"/></td>
-  </tr>
-  <tr>
-    <td><strong>Contest Rating</strong></td>
-    <td><img src="https://img.shields.io/badge/1450-brightgreen?style=flat-square&logo=leetcode&logoColor=white"/></td>
-  </tr>
-  <tr>
-    <td><strong>Global Rank</strong></td>
-    <td><img src="https://img.shields.io/badge/Top%2012%25-blue?style=flat-square&logo=leetcode&logoColor=white"/></td>
-  </tr>
-</table>
-
-<br>
-
-<table style="border-radius: 8px; background-color: #1e1e2e; color: white; padding: 10px; width: 95%; max-width: 700px; box-shadow: 0 0 10px #121212;">
-  <tr align="center">
-    <td><strong>Easy</strong><br><img src="https://img.shields.io/badge/100-1abc9c?style=flat-square&logo=leetcode&logoColor=white"/></td>
-    <td><strong>Medium</strong><br><img src="https://img.shields.io/badge/60-f39c12?style=flat-square&logo=leetcode&logoColor=white"/></td>
-    <td><strong>Hard</strong><br><img src="https://img.shields.io/badge/20-e74c3c?style=flat-square&logo=leetcode&logoColor=white"/></td>
-  </tr>
-</table>
-
-<br>
-<a href="https://leetcode.com/u/mhdalrashid/" target="_blank">
-  🔗 View my full LeetCode profile
-</a>
-
-</div>
+🔗 [View full LeetCode profile](https://leetcode.com/u/mhdalrashid/)
 
 ### 📊 Kaggle Highlights
 
