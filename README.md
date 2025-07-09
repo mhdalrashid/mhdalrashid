@@ -12,7 +12,7 @@
 
 ---
 
-###  🧰 Tech Stack
+### 🧰 Tech Stack
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -23,15 +23,13 @@
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
 </p>
 
-
 ---
 
 ### 🧪 Projects (more coming soon!)
 
-- 🔍 [Image Enhancer using OpenCV](#)  
-- 📊 [Data Cleaner for CSV files](#)  
-- 🧠 [Mini Neural Network from Scratch](#)  
-*(Will update with real links soon!)*
+- 📷 [Image Enhancer using OpenCV](#)
+- 📊 [Data Cleaner for CSV files](#)
+- 🧠 [Mini Neural Network from Scratch](#)
 
 ---
 
@@ -44,12 +42,29 @@
 
 ---
 
+### 🧠 LeetCode Stats
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/mhdalrashid?theme=dark&font=baloo&extension=activity" />
+</p>
+
+---
+
+### 📊 Kaggle Profile
+
+<p align="center">
+  <a href="https://www.kaggle.com/muhammedalrashid">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+  </a>
+</p>
+
+---
+
 ### 🌐 Connect with Me
 
 <p>
-  <a href="https://x.com/mhdalrashid21"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://twitter.com/rxh_ed"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/mhdalrashid/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://leetcode.com/u/mhdalrashid/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
   <a href="mailto:mhdalrashid@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
