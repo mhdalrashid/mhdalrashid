@@ -44,11 +44,17 @@
 
 ---
 
-### 💡 LeetCode Stats
+### 💡 LeetCode
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/mhdalrashid?theme=dark&font=JetBrains+Mono&border=1&ext=activity" width="90%" />
+  <a href="https://leetcode.com/u/mhdalrashid/">
+    <img src="https://img.shields.io/badge/LeetCode-mhdalrashid-orange?style=flat-square&logo=leetcode&logoColor=white" />
+  </a>
 </p>
+
+- 🧠 Solving real-world coding challenges  
+- ✨ Improving problem-solving with DSA  
+- 🔗 [leetcode.com/u/mhdalrashid](https://leetcode.com/u/mhdalrashid/)
 
 ---
 
