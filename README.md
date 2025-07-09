@@ -44,17 +44,23 @@
 
 ---
 
-### 💡 LeetCode
+###  💡 LeetCode Stats
 
 <p align="center">
-  <a href="https://leetcode.com/u/mhdalrashid/">
-    <img src="https://img.shields.io/badge/LeetCode-mhdalrashid-orange?style=flat-square&logo=leetcode&logoColor=white" />
-  </a>
+  <img src="https://img.shields.io/badge/Problems%20Solved-180-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Contest%20Rating-1450-brightgreen?style=for-the-badge&logo=leetcode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Global%20Rank-Top%2012%25-blue?style=for-the-badge&logo=leetcode&logoColor=white" />
 </p>
 
-- 🧠 Solving real-world coding challenges  
-- ✨ Improving problem-solving with DSA  
-- 🔗 [leetcode.com/u/mhdalrashid](https://leetcode.com/u/mhdalrashid/)
+<p align="center">
+  <img src="https://img.shields.io/badge/Easy-100-1abc9c?style=flat-square&logo=leetcode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Medium-60-f39c12?style=flat-square&logo=leetcode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hard-20-e74c3c?style=flat-square&logo=leetcode&logoColor=white" />
+</p>
+
+> 📌 These values are **manually added** — update them as your progress grows.  
+> 🎯 See full profile: [leetcode.com/u/mhdalrashid](https://leetcode.com/u/mhdalrashid/)
+
 
 ---
 
