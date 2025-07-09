@@ -5,10 +5,10 @@
 
 ### 🔍 About Me
 
-🧠 Self-driven explorer of AI & ML  
-🐍 Python junkie building useful, weird, and fun things  
-📈 Obsessed with clean data, good coffee, and sharp code  
-🎯 Currently: Leveling up through projects, curiosity, and community
+- 🧠 Curious machine-learning enthusiast  
+- 🐍 Turning Python into purposeful projects  
+- 📈 Data-cleaning ninja + code-organizer  
+- 🎯 Learning in public — no fluff, all growth
 
 ---
 
@@ -27,11 +27,11 @@
 
 ### 🛠️ My Projects
 
-- 📸 **Image Enhancer (OpenCV)** – Enhancing clarity and sharpness with matrix math [WIP]
-- 🧼 **Data Cleaner for CSVs** – Fast preprocessing tool for messy data
-- 🧠 **Neural Network from Scratch** – No frameworks, just math and madness
+- 📸 **Image Enhancer (OpenCV)** – sharpening visuals with code  
+- 🧼 **CSV Data Cleaner** – fast, efficient preprocessing  
+- 🧠 **Neural Net by Hand** – no frameworks, raw brainpower  
 
-> 🔗 *More projects coming soon!*
+> 🔗 *More cool stuff coming soon!*
 
 ---
 
@@ -47,12 +47,12 @@
 ### 💡 LeetCode Stats
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/mhdalrashid?theme=unicorn&font=JetBrains+Mono&border=1&ext=contest" width="90%"/>
+  <img src="https://leetcard.jacoblin.cool/mhdalrashid?theme=dark&font=JetBrains+Mono&border=1&ext=activity" width="90%" />
 </p>
 
 ---
 
-### 📊 Kaggle Badge
+### 📊 Kaggle Highlights
 
 <p align="center">
   <a href="https://www.kaggle.com/muhammedalrashid">
@@ -60,20 +60,22 @@
   </a>
 </p>
 
+> 🧠 I actively participate on Kaggle through notebooks, competitions, and datasets.  
+> 
+> **Highlights:**
+> - 🥈 Silver medal in Datasets  
+> - 📊 Created 10+ public notebooks  
+> - 🔬 Currently exploring NLP challenges  
+> - 🚀 Always experimenting with new kernels & models
+
 ---
 
 ### 🌐 Let's Connect
 
 <p align="center">
-  <a href="https://twitter.com/rxh_ed">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/mhdalrashid/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:mhdalrashid@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
+  <a href="https://twitter.com/rxh_ed"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/mhdalrashid/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:mhdalrashid@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
