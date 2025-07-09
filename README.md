@@ -1,16 +1,58 @@
-## Hi there 👋
+<h1 align="center">Hey, I'm Rashid 👋</h1>
+<h3 align="center">Aspiring ML Engineer | Data Science Explorer | Builder at heart</h3>
 
-<!--
-**mhdalrashid/mhdalrashid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Currently learning Machine Learning & building cool projects with Python  
+- 🌱 Exploring Data Science, Deep Learning & real-world problem solving  
+- 🛠️ Learning in public and sharing my journey  
+- ⚡ Fun fact: I enjoy turning messy data into insights and smart solutions
+
+---
+
+### 🧰 Tech Stack
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+</p>
+
+---
+
+### 🧪 Projects (more coming soon!)
+
+- 🔍 [Image Enhancer using OpenCV](#)  
+- 📊 [Data Cleaner for CSV files](#)  
+- 🧠 [Mini Neural Network from Scratch](#)  
+*(Will update with real links soon!)*
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mhdalrashid&show_icons=true&theme=tokyonight" width="45%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=mhdalrashid&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" width="45%" />
+</p>
+
+---
+
+### 🌐 Connect with Me
+
+<p>
+  <a href="https://x.com/mhdalrashid21"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/mhdalrashid/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/mhdalrashid/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
+  <a href="mailto:mhdalrashid@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+---
+
+<p align="center">✨ Let’s build something awesome together ✨</p>
