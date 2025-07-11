@@ -44,31 +44,8 @@
 
 ---
 
-###  💡 LeetCode Stats
 
-<p align="center">
-  <img src="https://leetcode-badge-sage.vercel.app/badge/mhdalrashid?theme=dark&bgColor=282828" alt="LeetCode Stats" width="90%" />
-</p>
 
-🔗 [View full LeetCode profile](https://leetcode.com/u/mhdalrashid/)
-
-### 📊 Kaggle Highlights
-
-<p align="center">
-  <a href="https://www.kaggle.com/muhammedalrashid">
-    <img src="https://img.shields.io/badge/Kaggle-003580?style=flat-square&logo=kaggle&logoColor=white" />
-  </a>
-</p>
-
-> 🧠 I actively participate on Kaggle through notebooks, competitions, and datasets.  
-> 
-> **Highlights:**
-> - 🥈 Silver medal in Datasets  
-> - 📊 Created 10+ public notebooks  
-> - 🔬 Currently exploring NLP challenges  
-> - 🚀 Always experimenting with new kernels & models
-
----
 
 ### 🌐 Let's Connect
 
